@@ -1,0 +1,64 @@
+.container {
+  width: 690px;
+  margin: 0 auto;
+  margin-top: 50px
+}
+
+.errors {
+  background-color: #F85C50;
+  border-radius: 25px;
+}
+
+th {
+  font-size: 13px;
+  font-weight: normal;
+  background: #b9c9fe;
+  border-top: 4px solid #aabcfe;
+  border-bottom: 1px solid white;
+  color: #039;
+  padding: 8px;
+}
+
+td {
+  background: #e8edff;
+  border-bottom: 1px solid white;
+  color: #669;
+  border-top: 1px solid transparent;
+  padding: 8px;
+  text-align: center;
+}
+
+tr:hover td {
+  background: #ccddff;
+}
+h1 {
+  text-align: center;
+}
+
+h3 {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.form-label {
+  font-size: 20px;
+}
+
+.errors li {
+  font-weight: 700;
+}
+
+.success {
+  padding: 22px 0;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #198754;
+}
+
+.info {
+  margin-top: 25px;
+}
+#table {
+  margin-bottom: 25px;
+}
+
